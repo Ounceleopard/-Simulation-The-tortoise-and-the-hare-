@@ -39,7 +39,7 @@ int main()
       	cout << "TORTIOSE WINS!!! YAY!!!" << endl;
     else if (tortoise <= hare) 
       	cout << "Hare wins. Yuch." << endl;
-	else 
+    else 
         cout << "It's a tie." << endl;
     
     cout << "TIME: " << timer << " Seconds" << endl;
